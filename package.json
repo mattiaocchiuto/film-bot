@@ -1,0 +1,11 @@
+{
+  "name": "film-bot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "mattia occhiuto <occhiutomattia@gmail.com>",
+  "license": "MIT"
+}
